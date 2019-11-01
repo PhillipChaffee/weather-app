@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Weather App
 ### An app to display the current temperature in Fahrenheit for any US zipcode.
 
